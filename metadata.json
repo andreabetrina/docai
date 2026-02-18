@@ -1,0 +1,8 @@
+{
+  "name": "Copy of DocAI - Health & Diagnosis Assistant",
+  "description": "A sophisticated AI-powered health assistant mobile application featuring a conversational UI with quick-action MCQ options and deep-check diagnostic capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
